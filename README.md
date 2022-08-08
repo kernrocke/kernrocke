@@ -3,6 +3,7 @@
 I am an experience data, research and spatial anaylyst in the area of epidemiology and public health. My main interests centre around investigating and providing epidemiological and geoinforgraphic solutions to problems related to infectious and NCD burden in low resources settings. 
 
 - 🔭 I’m currently working on investigating how the built environment features moderates behavioural risk factors and cardiometabolic outcomes.
+- 👯 I’m looking to collaborate on project aimed at developing geospatial solutions to epidemiological and public health related problems in low resource settings.
 
 <!--
 **kernrocke/kernrocke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
